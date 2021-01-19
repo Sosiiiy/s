@@ -1,0 +1,32 @@
+.invalidName{
+	display:none;
+}
+.invalidPrice{
+	display:none;
+}
+.invalidCompany{
+	display:none;
+}
+.search{
+	display:block;
+	
+}
+#search{
+	margin-bottom:10px;
+}
+
+.productName{
+	 text-transform: capitalize;
+	 font-size:50px;
+}
+
+.main{
+	margin:20px 0;
+}
+
+.product{
+	 border: 2px solid red;
+	  padding:10px;
+}
+
+
